@@ -44,9 +44,9 @@ Sergei Mikhailovich Prokudin-Gorskii was one of the first to experiment with col
 ## ⚙️ To Run
 
 1. Open MATLAB.
-2. Place `course1image.jpg` and the script in the same folder.
+2. Place `test_cv_img.jpeg` and the script in the same folder.
 3. Run the script:
    ```matlab
-   run('reconstruction.m');
+   run('Aligning_RGB_Images.m');
 
 
