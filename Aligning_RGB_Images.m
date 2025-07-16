@@ -1,5 +1,5 @@
 %Read the image
-img = imread('course1image.jpg');
+img = imread("test_cv_img.jpeg");
 [h,w] = size(img);
 r = floor(h / 3);
 c = w;
